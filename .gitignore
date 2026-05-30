@@ -1,0 +1,15 @@
+# Ejecutables de Go en Linux
+/microservice-go/microservice-go
+microservice-go
+
+# Entornos virtuales y caché de Python
+analytics-python/venv/
+analytics-python/.venv/
+__pycache__/
+*.pyc
+
+# Archivos ocultos del sistema
+.DS_Store
+.idea/
+.vscode/
+
